@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-plymouth"
+  ],
+  "area": [
+    {
+      "xpos": 465,
+      "ypos": 340,
+      "width": 93,
+      "height": 91,
+      "type": "match"
+    }
+  ]
+}
