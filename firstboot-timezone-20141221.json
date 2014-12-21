@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "firstboot-timezone"
+  ],
+  "area": [
+    {
+      "xpos": 430,
+      "ypos": 34,
+      "width": 159,
+      "height": 114,
+      "type": "match"
+    }
+  ]
+}
