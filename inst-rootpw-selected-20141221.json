@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 140,
+      "width": 283,
+      "height": 57,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-rootpw-selected"
+  ]
+}
