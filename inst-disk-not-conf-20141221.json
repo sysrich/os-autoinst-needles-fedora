@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-disk-not-conf"
+  ],
+  "area": [
+    {
+      "xpos": 222,
+      "ypos": 250,
+      "width": 314,
+      "height": 74,
+      "type": "match"
+    }
+  ]
+}
