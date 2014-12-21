@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 249,
+      "width": 325,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-auto-partitioning"
+  ]
+}
