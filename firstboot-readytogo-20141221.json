@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "firstboot-readytogo"
+  ],
+  "area": [
+    {
+      "xpos": 468,
+      "ypos": 29,
+      "width": 89,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 400,
+      "ypos": 479,
+      "width": 223,
+      "height": 63,
+      "type": "match"
+    }
+  ]
+}
