@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 75,
+      "width": 260,
+      "height": 133,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-rootpw"
+  ]
+}
