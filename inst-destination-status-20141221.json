@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 86,
+      "width": 305,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-destination-status"
+  ]
+}
