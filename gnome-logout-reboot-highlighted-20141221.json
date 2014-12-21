@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "gnome-logout-reboot-highlighted"
+  ],
+  "area": [
+    {
+      "xpos": 432,
+      "ypos": 434,
+      "width": 134,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
