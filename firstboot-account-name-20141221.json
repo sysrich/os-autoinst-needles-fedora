@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 354,
+      "width": 183,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firstboot-account-name"
+  ]
+}
