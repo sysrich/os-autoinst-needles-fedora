@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "gnome-logout"
+  ],
+  "area": [
+    {
+      "xpos": 259,
+      "ypos": 286,
+      "width": 452,
+      "height": 60,
+      "type": "match"
+    }
+  ]
+}
