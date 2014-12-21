@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 620,
+      "ypos": 643,
+      "width": 380,
+      "height": 79,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-wait-for-install"
+  ]
+}
